@@ -21,11 +21,11 @@
 
 ## Conclusions
 - Here is a sample table created by the code.
-Disease					                        Treatment
-hereditary retinoblastoma		            radiotherapy
-treating stress urinary incontinence    surgical procedures
-malignant pleural mesothelioma		      radiotherapy and chemotherapy
-...					...
+- Disease					                        Treatment
+- hereditary retinoblastoma		            radiotherapy
+- treating stress urinary incontinence    surgical procedures
+- malignant pleural mesothelioma		      radiotherapy and chemotherapy
+- ...					...
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
